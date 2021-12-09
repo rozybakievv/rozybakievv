@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @rozybakievv
+- 👀 I’m interested in Web3, mobile applications, algorithms, Crypto and Web Design !
+- 📫 How to reach me : rozzybakiev@gmail.com
