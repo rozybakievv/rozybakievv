@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @rozybakievv
-- 👀 I’m interested in Web3, mobile applications, algorithms, Crypto and Web Design !
+- 👋 Hi, I’m @rozybakievv, a Fullstack Developer
+- 👀 I’m interested in Web Technologies, Mobile Apps, Algorithms and UX/UI Design
 - 📫 How to reach me : rozzybakiev@gmail.com
