@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @rozybakievv, a Fullstack Developer
-- 👀 I’m interested in Web Technologies & Apps, Mobile Apps, Algorithms and UX/UI Design
+- 👀 I’m interested in Embedded System Design, Coding, Robotics, Sattelites or anything related to Space
 - 📫 How to reach me : rozzybakiev@gmail.com
