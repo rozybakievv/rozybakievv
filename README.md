@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @rozybakievv, a Fullstack Developer
+- 👋 Hi, I’m @rozybakievv, an Computer Engineering Student @Concordia University
 - 👀 I’m interested in Embedded System Design, Coding, Robotics, Satellites or anything related to Space
 - 📫 How to reach me : rozzybakiev@gmail.com
